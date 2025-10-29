@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vivek Chopade</h1>
+<h3 align="center">MCA Student | AWS & DevOps Enthusiast | Cloud Learner 🚀</h3>
 
-<!--
-**chopadevivek07/chopadevivek07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍🎓 About Me
+💻 I’m currently pursuing my **Master of Computer Applications (MCA)** in online mode.  
+☁️ Alongside, I’m learning **AWS & DevOps** to master cloud infrastructure, automation, and deployment tools.  
+🔭 I’m passionate about building, deploying, and automating **web applications** using **AWS, Jenkins, Docker, and NGINX**.  
+🧠 I enjoy exploring **CI/CD pipelines**, **serverless architecture**, and **Linux system administration**.  
+✍️ I share my learning journey through **Medium blogs** and **GitHub projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📝 My Latest Blog
+📘 [How to Host WordPress on AWS EC2 with a High-Performance LEMP Stack](https://medium.com/@chopadevivek4466/how-to-host-wordpress-on-aws-ec2-with-a-high-performance-lemp-stack-3774803b4544)
+
+---
+
+### 💡 Featured Projects
+
+| 🚀 Project | 💬 Description | 🔗 GitHub Link |
+|-------------|----------------|----------------|
+| 🌐 **WordPress Website Hosting** | Host WordPress on AWS EC2 using LEMP Stack (Linux, Nginx, MySQL, PHP) | [Repo Link](https://github.com/chopadevivek07/Wordpress-Website-Hosting) |
+| ⚙️ **Jenkins Setup on AWS EC2** | CI/CD setup using Jenkins pipelines on AWS EC2 | [Repo Link](https://github.com/chopadevivek07/Jenkins-Setup-on-AWS-EC2) |
+| 🧩 **Jenkins Automation on AWS EC2** | Automate Jenkins build jobs and pipelines using shell scripts | [Repo Link](https://github.com/chopadevivek07/jenkins-automation-on-aws-ec2) |
+| 🐍 **Flask EC2 Deployment** | Deploy Flask apps using Gunicorn & NGINX on AWS EC2 | [Repo Link](https://github.com/chopadevivek07/Flask-EC2-Deployment) |
+| 🗂️ **Task Manager - Flask RDS** | Flask web app integrated with AWS RDS (MySQL) | [Repo Link](https://github.com/chopadevivek07/-Task-Manager---Flask-RDS) |
+| 🔁 **GitHub-GitLab Task** | Repo mirroring and sync between GitHub & GitLab | [Repo Link](https://github.com/chopadevivek07/Github-Gitlab-Task) |
+| ☁️ **Lambda File Upload Tutorial** | Serverless file upload using AWS Lambda, S3, and DynamoDB | [Repo Link](https://github.com/chopadevivek07/Lambda-File-Upload-Tutorial) |
+
+---
+
+### 🛠️ Tech Stack
+
+💻 **Languages:** Python, Bash, SQL  
+☁️ **Cloud:** AWS (EC2, S3, Lambda, RDS, IAM)  
+⚙️ **DevOps Tools:** Jenkins, Docker, Git, GitHub, NGINX  
+🗄️ **Databases:** MySQL, MariaDB  
+🎨 **Web Frameworks:** Flask, HTML, CSS, Bootstrap  
+🧩 **Other:** Linux Administration, CI/CD Pipelines, Shell Scripting  
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vivek-chopade07" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
+<a href="https://medium.com/@chopadevivek4466" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=medium" height="40" alt="medium"/></a>
+<a href="https://github.com/chopadevivek07" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" alt="github"/></a>
+</p>
+
+---
+
+⭐ *“Keep learning, keep building — every commit takes you closer to mastery.”*  
