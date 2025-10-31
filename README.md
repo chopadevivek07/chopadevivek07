@@ -23,7 +23,7 @@
 |-------------|----------------|----------------|
 | 🌐 **WordPress Website Hosting** | Host WordPress on AWS EC2 using LEMP Stack (Linux, Nginx, MySQL, PHP) | [Repo Link](https://github.com/chopadevivek07/Wordpress-Website-Hosting) |
 | ⚙️ **Jenkins Setup on AWS EC2** | CI/CD setup using Jenkins pipelines on AWS EC2 | [Repo Link](https://github.com/chopadevivek07/Jenkins-Setup-on-AWS-EC2) |
-| 🧩 **Jenkins Automation on AWS EC2** | Automate Jenkins build jobs and pipelines using shell scripts | [Repo Link](https://github.com/chopadevivek07/jenkins-automation-on-aws-ec2) |
+| 🧩 **Node-App-Jenkins-Freestyle-Deployment** | Automate Jenkins build jobs and pipelines using shell scripts | [Repo Link](https://github.com/chopadevivek07/Node-App-Jenkins-Freestyle-Deployment) |
 | 🐍 **Flask EC2 Deployment** | Deploy Flask apps using Gunicorn & NGINX on AWS EC2 | [Repo Link](https://github.com/chopadevivek07/Flask-EC2-Deployment) |
 | 🗂️ **Task Manager - Flask RDS** | Flask web app integrated with AWS RDS (MySQL) | [Repo Link](https://github.com/chopadevivek07/-Task-Manager---Flask-RDS) |
 | 🔁 **GitHub-GitLab Task** | Repo mirroring and sync between GitHub & GitLab | [Repo Link](https://github.com/chopadevivek07/Github-Gitlab-Task) |
