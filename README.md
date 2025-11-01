@@ -12,11 +12,6 @@
 
 ---
 
-### 📝 My Latest Blog
-📘 [How to Host WordPress on AWS EC2 with a High-Performance LEMP Stack](https://medium.com/@chopadevivek4466/how-to-host-wordpress-on-aws-ec2-with-a-high-performance-lemp-stack-3774803b4544)
-
----
-
 ### 💡 Featured Projects
 
 | 🚀 Project | 💬 Description | 🔗 GitHub Link |
