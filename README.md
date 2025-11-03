@@ -26,6 +26,9 @@
 | 🌦️ **Serverless Weather Notification System** | Automate weather alerts using AWS Lambda, SNS & EventBridge | [Repo Link](https://github.com/chopadevivek07/Serverless-Weather-Notification-System) |
 | 🧰 **Node App Jenkins Freestyle Deployment** | Deploy Node.js app using Jenkins Freestyle Jobs | [Repo Link](https://github.com/chopadevivek07/Node-App-Jenkins-Freestyle-Deployment) |
 | 📧 **Jenkins Email Notification & Git Clone Job** | Configure Jenkins SMTP email alerts and automate Git repo cloning job with success & failure notifications | [Repo Link](https://github.com/chopadevivek07/Jenkins-Email-Notification-Git-Clone-Job) |
+| 💾 **AWS EBS Volume Management Project** | Manage, attach, and mount AWS Elastic Block Store (EBS) volumes to EC2 instances | [Repo Link](https://github.com/chopadevivek07/AWS-EBS-Volume-Management-Project) |
+| 🟢 **Node App on AWS EC2** | Host and deploy a Node.js application on AWS EC2 instance with PM2 and NGINX | [Repo Link](https://github.com/chopadevivek07/node-app-on-aws-ec2) |
+
 
 ---
 
