@@ -23,7 +23,7 @@
 | 🗂️ **Task Manager - Flask RDS** | Flask web app integrated with AWS RDS (MySQL) | [Repo Link](https://github.com/chopadevivek07/-Task-Manager---Flask-RDS) |
 | 🔁 **GitHub-GitLab Task** | Repo mirroring and sync between GitHub & GitLab | [Repo Link](https://github.com/chopadevivek07/Github-Gitlab-Task) |
 | ☁️ **Lambda File Upload Tutorial** | Serverless file upload using AWS Lambda, S3, and DynamoDB | [Repo Link](https://github.com/chopadevivek07/Lambda-File-Upload-Tutorial) |
-| 🌦️ **Serverless Weather Notification System** | Automate weather alerts using AWS Lambda, SNS & EventBridge | [Repo Link]([https://(https://github.com/chopadevivek07/Serverless-Weather-Notification-System-.git)) |
+| 🌦️ **Serverless Weather Notification System** | Automate weather alerts using AWS Lambda, SNS & EventBridge | [Repo Link]((https://github.com/chopadevivek07/Serverless-Weather-Notification-System-.git)) |
 | 🧰 **Node App Jenkins Freestyle Deployment** | Deploy Node.js app using Jenkins Freestyle Jobs | [Repo Link](https://github.com/chopadevivek07/Node-App-Jenkins-Freestyle-Deployment) |
 | 📧 **Jenkins Email Notification & Git Clone Job** | Configure Jenkins SMTP email alerts and automate Git repo cloning job with success & failure notifications | [Repo Link](https://github.com/chopadevivek07/Jenkins-Email-Notification-Git-Clone-Job) |
 | 💾 **AWS EBS Volume Management Project** | Manage, attach, and mount AWS Elastic Block Store (EBS) volumes to EC2 instances | [Repo Link](https://github.com/chopadevivek07/AWS-EBS-Volume-Management-Project) |
