@@ -16,7 +16,7 @@
 
 | 🚀 Project | 💬 Description & Links |
 |------------|-------------------------|
-|1.|| 🌐 **WordPress Website Hosting** | Host WordPress on AWS EC2 using LEMP Stack (Linux, Nginx, MySQL, PHP) <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Wordpress-Website-Hosting) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/how-to-host-wordpress-on-aws-ec2-with-a-high-performance-lemp-stack-3774803b4544) |
+1.|| 🌐 **WordPress Website Hosting** | Host WordPress on AWS EC2 using LEMP Stack (Linux, Nginx, MySQL, PHP) <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Wordpress-Website-Hosting) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/how-to-host-wordpress-on-aws-ec2-with-a-high-performance-lemp-stack-3774803b4544) |
 | ⚙️ **Jenkins Setup on AWS EC2** | CI/CD setup using Jenkins pipelines on AWS EC2 <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Jenkins-Setup-on-AWS-EC2) • ✍️ [Medium Blog](#) |
 | 🧩 **Node-App-Jenkins-Freestyle-Deployment** | Automate Jenkins build jobs and pipelines using shell scripts <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Node-App-Jenkins-Freestyle-Deployment) • ✍️ [Medium Blog](#) |
 | 🖥️ **Portfolio Website & Node App CI/CD** | Portfolio site with Jenkins CI/CD + Node.js app with Jenkins and AWS EC2 <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/portfollio-website-jenkins-CICD-) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/fully-automated-python-portfolio-deployment-on-aws-ec2-with-jenkins-ci-cd-871f2df6b82e) |
