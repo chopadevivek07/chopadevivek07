@@ -31,6 +31,9 @@
 | 📧 **Jenkins Email Notification & Git Clone Job** | Configure Jenkins SMTP email alerts and automate Git repo cloning job with success & failure notifications <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Jenkins-Email-Notification-Git-Clone-Job) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/implementing-automated-build-status-notifications-in-jenkins-via-smtp-and-git-webhooks-focuses-on-d563f34e345d) |
 | 💾 **AWS EBS Volume Management Project** | Manage, attach, and mount AWS Elastic Block Store (EBS) volumes to EC2 instances <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/AWS-EBS-Volume-Management-Project) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/aws-ebs-masterclass-proving-data-persistence-by-swapping-volumes-between-ec2-instances-1fc19837f801) |
 | 🟢 **Node App on AWS EC2** | Host and deploy a Node.js application on AWS EC2 instance with PM2 and NGINX <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/node-app-on-aws-ec2) • ✍️ [Medium Blog](#) |
+| ☁️ **Deploy a Basic AWS EC2 Instance Using Terraform** | This repository contains Terraform files to deploy a basic Amazon EC2 instance using your local machine and VS Code. The setup is simple and beginner-friendly for learning Infrastructure as Code (IaC).<br>🔗 [GitHub Repo](https://github.com/chopadevivek07/Terraform-aws-ec2-basic.git) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/deploy-a-basic-aws-ec2-instance-using-terraform-local-setup-421fbdc8ae26) |
+| ☁️ **Terraform AWS Infrastructure Project** | The configuration creates three EC2 instances, a security group with required ports, and an S3 bucket with versioning enabled.<br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Terraform-Task.git) |
+
 
 ---
 
@@ -38,8 +41,8 @@
 
 💻 **Languages:** Python, Bash, SQL  
 ☁️ **Cloud:** AWS (EC2, S3, Lambda, RDS, IAM)  
-⚙️ **DevOps Tools:** Jenkins, Docker, Git, GitHub, NGINX  
-🗄️ **Databases:** MySQL, MariaDB  
+⚙️ **DevOps Tools:** Jenkins, Docker, Git, GitHub, BITBUCKET , TERRAFORM , ANSIBLE 
+🗄️ **Databases:** MySQL, MariaDB  , DYNOMODB
 🎨 **Web Frameworks:** Flask, HTML, CSS, Bootstrap  
 🧩 **Other:** Linux Administration, CI/CD Pipelines, Shell Scripting  
 
