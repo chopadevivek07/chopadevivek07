@@ -33,6 +33,7 @@
 | 🟢 **Node App on AWS EC2** | Host and deploy a Node.js application on AWS EC2 instance with PM2 and NGINX <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/node-app-on-aws-ec2) • ✍️ [Medium Blog](#) |
 | ☁️ **Deploy a Basic AWS EC2 Instance Using Terraform** | This repository contains Terraform files to deploy a basic Amazon EC2 instance using your local machine and VS Code. The setup is simple and beginner-friendly for learning Infrastructure as Code (IaC).<br>🔗 [GitHub Repo](https://github.com/chopadevivek07/Terraform-aws-ec2-basic.git) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/deploy-a-basic-aws-ec2-instance-using-terraform-local-setup-421fbdc8ae26) |
 | ☁️ **Terraform AWS Infrastructure Project** | The configuration creates three EC2 instances, a security group with required ports, and an S3 bucket with versioning enabled.<br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Terraform-Task.git) |
+| 🟢 **Terraform 3-Tier AWS Architecture (VPC + EC2 + S3 Backend)** | The infrastructure is fully automated using Infrastructure as Code (IaC) principles and follows basic cloud architecture best practices. <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/THREE-Tier-AWS-Infrastructure-using-Terraform.git) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/from-zero-to-three-tiers-building-scalable-aws-infrastructure-with-terraform-83f88db47b38)
 
 
 ---
