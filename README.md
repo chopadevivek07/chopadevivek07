@@ -1,62 +1,99 @@
 <h1 align="center">Hi 👋, I'm Vivek Chopade</h1>
-<h3 align="center">MCA Student | AWS & DevOps Enthusiast | Cloud Learner 🚀</h3>
+<h3 align="center">MCA Student | AWS & DevOps Engineer (Fresher) | Cloud & Automation Enthusiast 🚀</h3>
 
 ---
 
-### 👨‍🎓 About Me  
-💻 I’m currently pursuing my **Master of Computer Applications (MCA)** in online mode.  
-☁️ Alongside, I’m learning **AWS & DevOps** to master cloud infrastructure, automation, and deployment tools.  
-🔭 I’m passionate about building, deploying, and automating **web applications** using **AWS, Jenkins, Docker, and NGINX**.  
-🧠 I enjoy exploring **CI/CD pipelines**, **serverless architecture**, and **Linux system administration**.  
-✍️ I share my learning journey through **Medium blogs** and **GitHub projects**.
+## 👨‍🎓 About Me  
+
+- 🎓 Pursuing **Master of Computer Applications (MCA)** (Online Mode)  
+- ☁️ Learning and practicing **AWS & DevOps technologies**  
+- 🔧 Hands-on experience with **CI/CD, Infrastructure as Code, automation, and cloud deployments**  
+- 🐧 Strong interest in **Linux administration, serverless architecture, and scalable cloud systems**  
+- ✍️ Sharing learning via **Medium blogs** and **GitHub projects**
 
 ---
 
-### 💡 Featured Projects
+## 💡 Featured Projects
 
-| 🚀 Project | 💬 Description & Links |
-|------------|-------------------------|
-| 🌐 **WordPress Website Hosting** | Host WordPress on AWS EC2 using LEMP Stack (Linux, Nginx, MySQL, PHP) <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Wordpress-Website-Hosting) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/how-to-host-wordpress-on-aws-ec2-with-a-high-performance-lemp-stack-3774803b4544) |
-| ⚙️ **Jenkins Setup on AWS EC2** | CI/CD setup using Jenkins pipelines on AWS EC2 <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Jenkins-Setup-on-AWS-EC2) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/from-zero-to-ci-installing-jenkins-on-aws-ec2-for-simple-automation-49ff643dc47f) |
-| 🧩 **Node-App-Jenkins-Freestyle-Deployment** | Automate Jenkins build jobs and pipelines using shell scripts <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Node-App-Jenkins-Freestyle-Deployment) • ✍️ [Medium Blog](#) |
-| 🖥️ **Portfolio Website & Node App CI/CD** | Portfolio site with Jenkins CI/CD + Node.js app with Jenkins and AWS EC2 <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/portfollio-website-jenkins-CICD-) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/fully-automated-python-portfolio-deployment-on-aws-ec2-with-jenkins-ci-cd-871f2df6b82e) |
-| 🔄 **Node App CI/CD Automation** | Fully automate Node.js deployment on AWS EC2 with Jenkins CI/CD <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/node-app-cicd) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/stop-sshing-automate-your-node-js-deployment-on-aws-ec2-with-jenkins-ci-cd-9858d7920e4e) |
-| 🐍 **Flask EC2 Deployment** | Deploy Flask apps using Gunicorn & NGINX on AWS EC2 <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Flask-EC2-Deployment) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/deploying-a-flask-app-on-aws-ec2-using-gunicorn-and-nginx-e88cc6ea1311) |
-| 🗂️ **Task Manager – Flask RDS** | Flask web app integrated with AWS RDS (MySQL) <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/-Task-Manager---Flask-RDS) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/aws-task-manager-building-a-flask-app-with-rds-and-ec2-%EF%B8%8F-5bd27d870cce) |
-| 📦 **AWS S3 CLI Project** | Secure buckets, automate archiving & cleanup using AWS S3 CLI <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/AWS-S3-CLI-Project.git) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/the-complete-s3-cli-project-secure-buckets-automated-archiving-and-cleanup-839edcde432d) |
-| 🔁 **GitHub-GitLab Task** | Repo mirroring and sync between GitHub & GitLab <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Github-Gitlab-Task) • ✍️ [Medium Blog](#) |
-| ☁️ **Lambda File Upload Tutorial** | Serverless file upload using AWS Lambda, S3, and DynamoDB <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Lambda-File-Upload-Tutorial) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/build-a-serverless-file-uploader-with-aws-lambda-s3-and-dynamodb-10c26799a623) |
-| 🌦️ **Serverless Weather Notification System** | Automate weather alerts using AWS Lambda, SNS & EventBridge <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Serverless-Weather-Notification-System-.git) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/️-zero-server-weather-how-to-build-an-automated-email-notification-system-with-aws-lambda-sns-75b5ac080801) |
-| 🧰 **Node App Jenkins Freestyle Deployment** | Deploy Node.js app using Jenkins Freestyle Jobs <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Node-App-Jenkins-Freestyle-Deployment) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/deploy-node-js-application-on-aws-ec2-using-pm2-step-by-step-guide-3f762080faa3) |
-| 📧 **Jenkins Email Notification & Git Clone Job** | Configure Jenkins SMTP email alerts and automate Git repo cloning job with success & failure notifications <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Jenkins-Email-Notification-Git-Clone-Job) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/implementing-automated-build-status-notifications-in-jenkins-via-smtp-and-git-webhooks-focuses-on-d563f34e345d) |
-| 💾 **AWS EBS Volume Management Project** | Manage, attach, and mount AWS Elastic Block Store (EBS) volumes to EC2 instances <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/AWS-EBS-Volume-Management-Project) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/aws-ebs-masterclass-proving-data-persistence-by-swapping-volumes-between-ec2-instances-1fc19837f801) |
-| 🟢 **Node App on AWS EC2** | Host and deploy a Node.js application on AWS EC2 instance with PM2 and NGINX <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/node-app-on-aws-ec2) • ✍️ [Medium Blog](#) |
-| ☁️ **Deploy a Basic AWS EC2 Instance Using Terraform** | This repository contains Terraform files to deploy a basic Amazon EC2 instance using your local machine and VS Code. The setup is simple and beginner-friendly for learning Infrastructure as Code (IaC).<br>🔗 [GitHub Repo](https://github.com/chopadevivek07/Terraform-aws-ec2-basic.git) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/deploy-a-basic-aws-ec2-instance-using-terraform-local-setup-421fbdc8ae26) |
-| ☁️ **Terraform AWS Infrastructure Project** | The configuration creates three EC2 instances, a security group with required ports, and an S3 bucket with versioning enabled.<br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/Terraform-Task.git) |
-| 🟢 **Terraform 3-Tier AWS Architecture (VPC + EC2 + S3 Backend)** | The infrastructure is fully automated using Infrastructure as Code (IaC) principles and follows basic cloud architecture best practices. <br> 🔗 [GitHub Repo](https://github.com/chopadevivek07/THREE-Tier-AWS-Infrastructure-using-Terraform.git) • ✍️ [Medium Blog](https://medium.com/@chopadevivek4466/from-zero-to-three-tiers-building-scalable-aws-infrastructure-with-terraform-83f88db47b38)
-
+| 🚀 Project | 💬 Description |
+|-----------|----------------|
+| 🌐 **WordPress Website Hosting** | Hosted WordPress on AWS EC2 using LEMP stack <br> 🔗 [GitHub](https://github.com/chopadevivek07/Wordpress-Website-Hosting) |
+| ⚙️ **Jenkins Setup on AWS EC2** | Jenkins installation and CI/CD setup on EC2 <br> 🔗 [GitHub](https://github.com/chopadevivek07/Jenkins-Setup-on-AWS-EC2) |
+| 🔄 **Node.js CI/CD using Jenkins** | Automated Node.js deployment on EC2 <br> 🔗 [GitHub](https://github.com/chopadevivek07/node-app-cicd) |
+| 🐍 **Flask EC2 Deployment** | Flask deployment using Gunicorn & NGINX <br> 🔗 [GitHub](https://github.com/chopadevivek07/Flask-EC2-Deployment) |
+| ☁️ **Terraform 3-Tier AWS Architecture** | Fully automated 3-tier AWS infra using Terraform <br> 🔗 [GitHub](https://github.com/chopadevivek07/THREE-Tier-AWS-Infrastructure-using-Terraform) |
 
 ---
 
-### 🛠️ Tech Stack
+## 📂 All Projects (Complete List)
 
-💻 **Languages:** Python, Bash, SQL  
-☁️ **Cloud:** AWS (EC2, S3, Lambda, RDS, IAM)  
-⚙️ **DevOps Tools:** Jenkins, Docker, Git, GitHub, BITBUCKET , TERRAFORM , ANSIBLE 
-🗄️ **Databases:** MySQL, MariaDB  , DYNOMODB
-🎨 **Web Frameworks:** Flask, HTML, CSS, Bootstrap  
-🧩 **Other:** Linux Administration, CI/CD Pipelines, Shell Scripting  
+| No. | Project Name | Tech Stack | Focus Area |
+|----|-------------|-----------|------------|
+| 1 | Nodejs-production-terraform-ansible | Node.js, Terraform, Ansible, AWS | Production Deployment |
+| 2 | Ansible-lamp-stack-automation | Ansible, Apache, MySQL, PHP | Server Automation |
+| 3 | Ansible-handlers-best-practices | Ansible | Best Practices |
+| 4 | Ansible-basic-automation | Ansible | Automation Basics |
+| 5 | Docker-Practical-Assignment | Docker, Linux | Containerization |
+| 6 | E-Commerce-Spring-Boot-App-on-AWS | Java, Spring Boot, Jenkins, Terraform, RDS | CI/CD + AWS |
+| 7 | HTTPD-Ansible-Role | Ansible, Apache | Ansible Role |
+| 8 | ANSIBLE-starter-projects | Ansible | Learning Projects |
+| 9 | ANSIBLE-Scripts | Ansible | Automation Scripts |
+|10 | THREE-Tier-AWS-Infrastructure-using-Terraform | Terraform, AWS | Cloud Architecture |
+|11 | Two-Tier-Architecture-on-AWS-Using-Terraform | Terraform, AWS | IaC |
+|12 | portfollio-website-jenkins-CICD | Jenkins, HTML, CSS | CI/CD |
+|13 | Static-Website-on-EC2-Using-Terraform-and-Jenkins | Terraform, Jenkins | IaC + CI/CD |
+|14 | Voice-Assistant-App-on-EC2 | Python, Jenkins, Terraform | Automation |
+|15 | Terraform-Task | Terraform, AWS | IaC Practice |
+|16 | Terraform | Terraform | Core Concepts |
+|17 | Terraform-aws-ec2-basic | Terraform, AWS EC2 | Beginner IaC |
+|18 | Student-App-jenkins-CICD | Java, Jenkins | CI/CD |
+|19 | node-app-cicd | Node.js, Jenkins | CI/CD |
+|20 | Python-App-CICD | Python, Jenkins | CI/CD |
+|21 | AWS-S3-CLI-Project | AWS S3, AWS CLI | Cloud Automation |
+|22 | Lambda-File-Upload-Tutorial | Lambda, S3, DynamoDB | Serverless |
+|23 | jenkins-file-repo | Jenkins, Git | Automation |
+|24 | AWS-EBS-Volume-Management-Project | AWS EC2, EBS | Storage |
+|25 | node-app-on-aws-ec2 | Node.js, PM2, NGINX | Deployment |
+|26 | Jenkins-Email-Notification-Git-Clone-Job | Jenkins, SMTP | Alerts |
+|27 | Serverless-Weather-Notification-System | Lambda, SNS, EventBridge | Serverless |
+|28 | Node-App-Jenkins-Freestyle-Deployment | Jenkins, Node.js | CI/CD |
+|29 | Jenkins-Setup-on-AWS-EC2 | Jenkins, AWS | CI/CD Setup |
+|30 | Task-Manager-Flask-RDS | Flask, AWS RDS, MySQL | Full Stack |
+|31 | Github-Gitlab-Task | Git, GitHub, GitLab | Version Control |
+|32 | Flask-EC2-Deployment | Flask, Gunicorn, NGINX | Backend Deployment |
+|33 | Wordpress-Website-Hosting | AWS EC2, NGINX, MySQL | Hosting |
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Tech Stack
+
+**Languages:** Python, Bash, SQL  
+**Cloud:** AWS (EC2, S3, Lambda, RDS, IAM, SNS)  
+**DevOps & IaC:** Jenkins, Docker, Git, GitHub, Bitbucket, Terraform, Ansible  
+**Databases:** MySQL, MariaDB, DynamoDB  
+**Web & Backend:** Flask, HTML, CSS, Bootstrap  
+**Other Skills:** Linux Administration, CI/CD Pipelines, Shell Scripting  
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vivek-chopade07" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
-<a href="https://medium.com/@chopadevivek4466" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=medium" height="40" alt="medium"/></a>
-<a href="https://github.com/chopadevivek07" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" alt="github"/></a>
+<a href="mailto:chopadevivek303@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vivek-chopade07" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://medium.com/@chopadevivek4466" target="_blank">
+<img src="https://skillicons.dev/icons?i=medium" height="40"/>
+</a>
+<a href="https://github.com/chopadevivek07" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
 </p>
 
 ---
 
-⭐ *“Keep learning, keep building — every commit takes you closer to mastery.”*
+⭐ **“Keep learning, keep building — every commit takes you closer to mastery.”**
