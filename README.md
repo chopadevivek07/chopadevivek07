@@ -79,10 +79,6 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="mailto:chopadevivek303@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
 <a href="https://www.linkedin.com/in/vivek-chopade07" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
