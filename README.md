@@ -118,21 +118,7 @@ CI/CD • Infrastructure as Code • Automation
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chopadevivek07&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chopadevivek07&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopadevivek07&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌱 Currently Learning
 
